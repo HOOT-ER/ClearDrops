@@ -49,8 +49,6 @@ namespace Oxide.Plugins
                 }
             }
 
-            Puts("Exited");
-
             SendReply(player, "Done");
         }
 
